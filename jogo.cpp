@@ -1,9 +1,5 @@
 #include<iostream>
-#include <cstring>
-#include <stdlib.h>
 #include <string.h>
-#include <time.h>
-#include <math.h>
 using namespace std;
 
 void desenhaForca(int vidas){
@@ -130,7 +126,6 @@ int palavrasadivinhadas[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
     
     return 0;
 }
-
 
 
 
